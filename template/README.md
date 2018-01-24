@@ -1,6 +1,4 @@
-# {{ name }}
 
-> {{ description }}
 
 ## Build Setup
 
