@@ -3,10 +3,10 @@
         <div>
             <logo/>
             <h1 class="title">
-                {{ name }}
+                ddd
             </h1>
             <h2 class="subtitle">
-                {{ description }}
+                aaa
             </h2>
         </div>
     </section>
